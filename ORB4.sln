@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28922.388
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORB4", "ORB4\ORB4.csproj", "{E2911021-0BE6-47AC-AD3D-E02D0C96F816}"
 EndProject
@@ -15,16 +15,16 @@ Global
 		Testing|x86 = Testing|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Debug|Any CPU.ActiveCfg = Debug|x64
-		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Debug|Any CPU.Build.0 = Debug|x64
+		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Debug|Any CPU.Build.0 = Debug|x86
 		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Debug|x86.ActiveCfg = Debug|x86
 		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Debug|x86.Build.0 = Debug|x86
-		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Release|Any CPU.ActiveCfg = Release|x86
+		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Release|Any CPU.Build.0 = Release|x86
 		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Release|x86.ActiveCfg = Release|x86
 		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Release|x86.Build.0 = Release|x86
 		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Testing|Any CPU.ActiveCfg = Testing|x64
-		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Testing|Any CPU.Build.0 = Testing|Any CPU
+		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Testing|Any CPU.Build.0 = Testing|x64
 		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Testing|x86.ActiveCfg = Testing|x86
 		{E2911021-0BE6-47AC-AD3D-E02D0C96F816}.Testing|x86.Build.0 = Testing|x86
 	EndGlobalSection
